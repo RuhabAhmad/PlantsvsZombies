@@ -1,2 +1,2 @@
 Plants vs. Zombies is a highly popular and addictive tower defense game developed by PopCap Games and released in 2009. It combines strategy, humor, and quirky visuals, making it a favorite among casual and hardcore gamers alike.
-I have made it using C++ and SFML
+I recreated it using C++ and SFML, leveraging the library's features for graphics and audio to bring the game's quirky visuals and engaging mechanics to life. This allowed me to capture the essence of the original while adding my own touch to the gameplay experience.
